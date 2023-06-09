@@ -1,4 +1,3 @@
-```markdown
 # Persian Twitter Text Normalization and Classification
 
 This code performs text normalization and classification on Twitter data using various techniques. It includes the following steps:
